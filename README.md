@@ -3,7 +3,7 @@
 
 **App modelled:** Simple Login Web Application  
 **Method used:** STRIDE  
-**Author:** [Your Name]  
+**Author:** MANOJ C  
 **Date:** November 2026
 
 ---

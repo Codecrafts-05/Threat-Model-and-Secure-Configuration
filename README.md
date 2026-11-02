@@ -1,7 +1,7 @@
 # Threat Model and Secure Configuration
 
 **Track:** Cyber Security – Task 1  
-**Author:** Bharat  
+**Author:** MANOJ C 
 **Date:** November 2026  
 **Environment:** Fictional student portal (localhost / isolated VM only)
 
